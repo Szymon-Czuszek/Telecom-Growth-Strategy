@@ -3,7 +3,7 @@
 ## 🧭 Overview
 This repository contains BPMN diagrams and related documentation outlining a hypothetical strategic growth plan for a telecommunications company. The content is purely for educational purposes.
 
-## Disclaimer
+## ⚠️ Disclaimer
 Note: This project is purely hypothetical and intended for educational purposes only. It does not reflect the strategies or plans of any actual company.
 
 ## BPMN Diagrams
