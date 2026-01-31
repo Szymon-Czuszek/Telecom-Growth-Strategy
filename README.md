@@ -1,4 +1,4 @@
-# Strategic Growth Strategy for a Hypothetical Telecommunications Company (Educational Purpose)
+# 📡 Strategic Growth Strategy for a Hypothetical Telecommunications Company (Educational Purpose)
 
 ## Overview
 This repository contains BPMN diagrams and related documentation outlining a hypothetical strategic growth plan for a telecommunications company. The content is purely for educational purposes.
