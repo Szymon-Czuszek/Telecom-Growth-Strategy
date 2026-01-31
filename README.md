@@ -6,7 +6,7 @@ This repository contains BPMN diagrams and related documentation outlining a hyp
 ## ⚠️ Disclaimer
 Note: This project is purely hypothetical and intended for educational purposes only. It does not reflect the strategies or plans of any actual company.
 
-## BPMN Diagrams
+## 📊 BPMN Diagrams
 The repository includes BPMN diagrams representing:
 
 # Main Growth Strategy: The overarching plan outlining key areas of focus for the hypothetical company's growth.
