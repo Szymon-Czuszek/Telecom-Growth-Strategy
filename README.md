@@ -12,7 +12,7 @@
 # 🗺️ Main Growth Strategy: The overarching plan outlining key areas of focus for the hypothetical company's growth.
 # 🔀 Subprocesses:
 **🧠 Strategic Planning:** Identifying and adopting new technologies.
-**Business Partnerships:** Establishing strategic alliances.
+**🤝 Business Partnerships:** Establishing strategic alliances.
 **Company Growth:** Expanding through acquisitions and consolidations.
 **Talent Acquisition:** Recruiting and integrating top talent.
 **Process Optimization:** Enhancing operational efficiency through process improvements.
