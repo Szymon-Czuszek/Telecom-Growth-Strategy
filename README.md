@@ -14,7 +14,7 @@
 **🧠 Strategic Planning:** Identifying and adopting new technologies.
 **🤝 Business Partnerships:** Establishing strategic alliances.
 **📈 Company Growth:** Expanding through acquisitions and consolidations.
-**Talent Acquisition:** Recruiting and integrating top talent.
+**👥 Talent Acquisition:** Recruiting and integrating top talent.
 **Process Optimization:** Enhancing operational efficiency through process improvements.
 Each diagram provides a detailed breakdown of events, tasks, gateways, and their relationships within the hypothetical company's growth strategy.
 
