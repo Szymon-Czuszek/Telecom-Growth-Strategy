@@ -19,7 +19,7 @@
 📐 Each diagram provides a detailed breakdown of events, tasks, gateways, and their relationships within the hypothetical company's growth strategy.
 
 ## 📎 Supporting Documentation
-In addition to BPMN diagrams, the repository includes supporting documentation in Word and Excel formats.
+- 📑 In addition to BPMN diagrams, the repository includes supporting documentation in Word and Excel formats.
 
 ## Word Extract: 
 The document "AUDYT INFORMATYCZNY" provides an in-depth analysis of the hypothetical company's business case, Albany method, process inventory, organizational structure, and risk analysis.
