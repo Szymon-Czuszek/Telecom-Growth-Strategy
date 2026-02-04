@@ -22,7 +22,7 @@
 - 📑 In addition to BPMN diagrams, the repository includes supporting documentation in Word and Excel formats.
 
 ## 📝 Word Extract: 
-The document "AUDYT INFORMATYCZNY" provides an in-depth analysis of the hypothetical company's business case, Albany method, process inventory, organizational structure, and risk analysis.
+- The document "AUDYT INFORMATYCZNY" provides an in-depth analysis of the hypothetical company's business case, Albany method, process inventory, organizational structure, and risk analysis.
 
 ## How to Use
 You can view the BPMN diagrams using compatible software such as Bizagi Modeler, Camunda Modeler, or any BPMN-compatible tool.
