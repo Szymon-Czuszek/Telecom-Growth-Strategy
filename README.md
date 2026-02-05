@@ -10,7 +10,7 @@
 - 📁 The repository includes BPMN diagrams representing:
 
 # 🗺️ Main Growth Strategy:
--The overarching plan outlining key areas of focus for the hypothetical company's growth.
+- The overarching plan outlining key areas of focus for the hypothetical company's growth.
 # 🔀 Subprocesses:
 **🧠 Strategic Planning:** Identifying and adopting new technologies.
 **🤝 Business Partnerships:** Establishing strategic alliances.
