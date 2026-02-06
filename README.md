@@ -18,7 +18,7 @@
 - **📈 Company Growth:** Expanding through acquisitions and consolidations.
 - **👥 Talent Acquisition:** Recruiting and integrating top talent.
 - **⚙️ Process Optimization:** Enhancing operational efficiency through process improvements.
-📐 Each diagram provides a detailed breakdown of events, tasks, gateways, and their relationships within the hypothetical company's growth strategy.
+- 📐 Each diagram provides a detailed breakdown of events, tasks, gateways, and their relationships within the hypothetical company's growth strategy.
 
 ## 📎 Supporting Documentation
 - 📑 In addition to BPMN diagrams, the repository includes supporting documentation in Word and Excel formats.
