@@ -35,6 +35,7 @@
 - Create a pull request outlining the proposed changes.
 - Please note that this project is entirely hypothetical and should not be construed as representing any actual company or its strategies. It is intended solely for educational purposes.
 
+# Contributions
 Feel free to contribute, suggest improvements, or use these diagrams as a reference for similar educational projects.
 
 For more details about each subprocess and the overall strategy, refer to the respective BPMN, Word, and Excel files in the repository.
