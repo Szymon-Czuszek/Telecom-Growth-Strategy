@@ -29,7 +29,7 @@
 ## How to Use
 - 🧩 You can view the BPMN diagrams using compatible software such as Bizagi Modeler, Camunda Modeler, or any BPMN-compatible tool.
 
-## To contribute or make changes:
+## 🤝 To contribute or make changes:
 - Fork the repository.
 - Make necessary changes or additions to the BPMN diagrams.
 - Create a pull request outlining the proposed changes.
