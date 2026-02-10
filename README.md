@@ -37,4 +37,4 @@
 
 # Contributions
 - ✨ Feel free to contribute, suggest improvements, or use these diagrams as a reference for similar educational projects.
-- For more details about each subprocess and the overall strategy, refer to the respective BPMN, Word, and Excel files in the repository.
+- 📚 For more details about each subprocess and the overall strategy, refer to the respective BPMN, Word, and Excel files in the repository.
