@@ -1,5 +1,7 @@
 # 📡 Strategic Growth Strategy for a Hypothetical Telecommunications Company (Educational Purpose)
 
+Business Problem: A hypothetical telecommunications company seeks structured, scalable growth while managing technological change, partnerships, talent, and operational efficiency.
+
 ## 🧭 Overview
 - 📂 This repository contains BPMN diagrams and related documentation outlining a hypothetical strategic growth plan for a telecommunications company. The content is purely for educational purposes.
 
